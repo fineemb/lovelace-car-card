@@ -2,7 +2,7 @@
 
 # Lovelace Car Card
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 这是适用于Lovelace的汽车仪表盘卡片,详细展示了车辆的各种状态, 以及车辆远程控制的一些交互
 
